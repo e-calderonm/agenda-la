@@ -1,0 +1,3 @@
+﻿  Agenda LA.cpp
+C:\Users\daned\OneDrive\Documents\GitHub\agenda-la\Agenda LA\Agenda LA.cpp(542,39): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Agenda LA.vcxproj -> C:\Users\daned\OneDrive\Documents\GitHub\agenda-la\x64\Debug\Agenda LA.exe
